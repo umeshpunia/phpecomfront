@@ -87,6 +87,7 @@
 
     <!-- Template Javascript -->
     <script src="assets/js/main.js"></script>
+    <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
 </body>
 
 </html>
